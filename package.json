@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "ejs": "^3.1.9",
     "express": "^4.18.2"
   },
   "name": "pimienta-y-sal",
@@ -11,7 +12,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node app.js",
-    "dev":"nodemon app.js"
+    "dev": "nodemon app.js"
   },
   "keywords": [],
   "author": "",
